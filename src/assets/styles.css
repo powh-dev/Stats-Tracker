@@ -1,0 +1,9 @@
+.popup{
+    text-align: center;
+    display: inline;
+    color: #fff;
+    -fx-background-color: rgba(30, 30, 30, 10);
+    -fx-background-radius: 7;
+    -fx-padding: 4;
+    -fx-font-size: 12;
+}
